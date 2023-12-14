@@ -64,3 +64,21 @@ h2.funny__dog{
     position: relative;
     left: 570px;
 }
+.bottom__right{
+    position: relative;
+    left: 770px;
+    top: 300px;
+    font-size: 30px;
+    color: white;
+}
+.bold{
+    font-size: 40px;
+}
+.bold_font{
+    font-size: 35px;
+}
+.right{
+    position: relative;
+    left: 170px;
+    bottom: 37px;
+}
